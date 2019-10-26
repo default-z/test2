@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b346256-6f0b-4cdd-b797-5e64551c7f62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/other" beforeDir="false" afterPath="$PROJECT_DIR$/other" afterDir="false" />
-    </list>
+    <list default="true" id="4b346256-6f0b-4cdd-b797-5e64551c7f62" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -72,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/other">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -161,16 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1570804789810</updated>
       <workItem from="1570804792426" duration="710000" />
-      <workItem from="1572072737385" duration="871000" />
+      <workItem from="1572072737385" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2828000" />
+    <option name="totallyTimeSpent" value="3196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="47" width="1306" height="798" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -216,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/other">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
